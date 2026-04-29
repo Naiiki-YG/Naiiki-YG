@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0f172a&height=200&section=header&text=Welcome%20to%20my%20Engineering%20Portfolio&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
-
+  
   <table>
     <tr>
       <td>
