@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0f172a&height=200&section=header&text=¡Bienvenidos%20a%20mi%20entorno%20de%20Ingeniería!&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=0f172a&height=200&section=header&text=Welcome%20to%20my%20Engineering%20Portfolio&fontSize=40&fontColor=38bdf8&animation=fadeIn" width="100%" />
 
   <table>
     <tr>
@@ -72,17 +72,3 @@
   </tr>
 </table>
 
----
-
-### 📈 Estadísticas de Contribución
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=tokyonight&border_color=38bdf8" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUÍ&layout=compact&theme=tokyonight&border_color=38bdf8" />
-</div>
-
----
-
-<div align="center">
-  <p><i>"Construyendo el puente entre los datos y la tecnología web."</i></p>
-  <a href="mailto:nayerly.yg@gmail.com">📫 Contáctame para colaborar</a>
-</div>
