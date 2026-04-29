@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=0f172a&height=200&section=header&text=Data%20Analysis%20&%20Web%20Engineering&fontSize=40&fontColor=38bdf8" width="100%" />
+  
 
   <h2>📊 Ingeniera en Informática | Apasionado por los Insights y las Interfaces</h3>
 
