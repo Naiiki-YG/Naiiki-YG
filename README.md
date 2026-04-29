@@ -10,12 +10,12 @@
 
 ### 💻 Web Development Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,docker" />
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,mongodb,postgresql,docker" />
 </p>
 
 ### 📈 Data Analysis & Science Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,mysql,tableau,tensorflow,sklearn,py,jupyter,pandas" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,tableau,py,jupyter,pandas,numpy,sqlserver" />
 </p>
 
 ---
